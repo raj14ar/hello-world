@@ -1,4 +1,4 @@
-<h1> Welcome to Valaxy Technologies </h1>
-<h2> Steup and deploy using jenkins </h2>
+<h1> Welcome to Rezo.ai </h1>
+<h2> This is a demo pipeline project </h2>
 
 
