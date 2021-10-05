@@ -6,4 +6,5 @@
 <h2> This is the 4th latest commit </h2>
 <h2> This is the 5th latest commit </h2>
 <h2> This is the 6th latest commit </h2>
+<h2> This is the 7th latest commit </h2>
 
